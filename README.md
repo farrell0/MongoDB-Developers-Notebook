@@ -10,6 +10,7 @@ This is a personal blog where we answer one or more questions each month from Mo
 > (IDE). How do I interface with MongoDB when using Eclipse ? Can I run
 > structured query language select (SQL SELECT) statements against
 > MongoDB ?
+>
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/MDB_DN_2016_03_Eclipse_BiConnector.pdf)
 
 
@@ -19,6 +20,7 @@ This is a personal blog where we answer one or more questions each month from Mo
 > appeal of MongoDB is the no schema migration thing as new application
 > requirements roll in. Still, I come from SQL and really miss SQL style
 > check constraints. What can I do ?
+>
 >**Coming April 1**
 
 
