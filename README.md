@@ -17,7 +17,7 @@ This is a personal blog where we answer one or more questions each month from Mo
 2016 April - -
 
 > I get that MongoDB offers a polymorphic schema, and that part of the
-> appeal of MongoDB is the no schema migration thing as new application
+> appeal of MongoDB is the no schema migration capability as new application
 > requirements roll in. Still, I come from SQL and really miss SQL style
 > check constraints. What can I do ?
 >
