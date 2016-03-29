@@ -11,7 +11,7 @@ This is a personal blog where we answer one or more questions each month from Mo
 > structured query language select (SQL SELECT) statements against
 > MongoDB ?
 >
->[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/MDB_DN_2016_03_Eclipse_BiConnector.pdf)
+>[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/download/blob/master/MDB_DN_2016_03_Eclipse_BiConnector.pdf)
 
 
 2016 April - -
