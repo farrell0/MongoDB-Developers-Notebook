@@ -21,7 +21,13 @@ This is a personal blog where we answer one or more questions each month from Mo
 > requirements roll in. Still, I come from SQL and really miss SQL style
 > check constraints. What can I do ?
 >
->**Coming April 1**
+>[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_04_CheckConstraints.pdf)
 
 
 2016 May - -
+
+> I inherited a MongoDB database server with 60 collections and 100 or so indexes.
+> The business users are complaining about slow report completion times. What can 
+>I do to improve performance ?
+>
+> ** Coming May 1 !
