@@ -30,4 +30,6 @@ This is a personal blog where we answer one or more questions each month from Mo
 > The business users are complaining about slow report completion times. What can 
 >I do to improve performance ?
 >
-> ** Coming May 1 !
+> ** Document oming May 1 !
+> ** This is also a Webinar, Weds April 27,
+> [Invation is here](https://mail.google.com/mail/u/1/#inbox/154162679b424428)
