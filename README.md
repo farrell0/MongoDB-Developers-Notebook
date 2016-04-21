@@ -41,7 +41,7 @@ This is a personal blog where we answer one or more questions each month from Mo
 
 >My team and I have been tasked with learning MongoDB, writing queries and getting 
 >a new project out of the door in 3 weeks. I know how to write most queries in SQL, 
->and have been doing that for years. Can you detail for me the when to use MongoDB 
->find(), versus aggregate(); pretty much give a primer on the whole subject area ?
+>and have been doing that for years. Can you detail for me when to use MongoDB find(), 
+>versus aggregate(); pretty much give me a primer on the whole subject area ?
 >
 >**Document coming June 1
