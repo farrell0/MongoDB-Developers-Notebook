@@ -21,7 +21,7 @@ This is a personal blog where we answer one or more questions each month from Mo
 >
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_04_CheckConstraints.pdf)
 >
->[Related PowerPoint (From SLC MUG)](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_04_CheckConstraints.pptx)
+>[Related PowerPoint (from SLC MUG)](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_04_CheckConstraints.pptx)
 
 2016 May - -
 
