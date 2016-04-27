@@ -31,11 +31,9 @@ This is a personal blog where we answer one or more questions each month from Mo
 >
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_05_IndexTuning.pdf)
 >
->** This is also a Webinar --
+>This was also a Webinar -- the audio quality was poor, and only the slides are posted.
 >
->Before Weds April 27, [Invitation is here](https://www.mongodb.com/webinar/index-tuning-and-evaluation-using-mongodb)
->
->After Weds April 27, [Replay is here](https://www.mongodb.com/presentations/all)
+>[Related Powerpoint (from Webinar)](http://www.slideshare.net/mongodb/webinar-index-tuning-and-evaluation)
 
 2016 June - -
 
