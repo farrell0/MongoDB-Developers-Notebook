@@ -40,4 +40,4 @@ This is a personal blog where we answer one or more questions each month from Mo
 >and have been doing that for years. Can you detail for me when to use MongoDB find ( ), 
 >versus aggregate ( ); pretty much give me a primer on the whole subject area ?
 >
->**Document coming June 1
+>[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_06_QueryPrimer.pdf)
