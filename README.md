@@ -45,3 +45,13 @@ This is a personal blog where we answer one or more questions each month from Mo
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_06_QueryPrimer.pdf)
 >
 >[Related Powerpoint](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_06_QueryPrimer.pptx.pdf), from SLC Mug
+
+2016 July - -
+
+>I’ve been asked to support a project that wants to deliver a fuzzy search capability 
+>for customer entitlement. E.g., you contact our customer call center and we find your 
+>record whether your name is David, Dave, Davey, you get the idea. I’ve read some on 
+>line postings that imply integration between ElasticSearch and MongoDB. What can you 
+>tell me ?
+>
+>[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_07_ElasticSearch.pdf)
