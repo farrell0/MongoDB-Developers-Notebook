@@ -55,3 +55,10 @@ This is a personal blog where we answer one or more questions each month from Mo
 >tell me ?
 >
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_07_ElasticSearch.pdf)
+
+2016 August - -
+
+>I recently took the MongoDB DBA certification exam, and was caught unprepared by questions 
+>related to mongofiles, mongoperf, and more. What have I been missing by not using these utilities ?
+>
+>[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_08_Tools.pdf)
