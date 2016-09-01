@@ -69,4 +69,5 @@ This is a personal blog where we answer one or more questions each month from Mo
 >intelligence related features. What can you tell me ?
 >
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_09_34Features.pdf)
-[Resource Kit](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_09_34Features_ResourceKit.tar), all of the programs used in this document in Tar format.
+>
+>[Resource Kit](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_09_34Features_ResourceKit.tar), all of the programs used in this document in Tar format.
