@@ -62,3 +62,11 @@ This is a personal blog where we answer one or more questions each month from Mo
 >related to mongofiles, mongoperf, and more. What have I been missing by not using these utilities ?
 >
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_08_Tools.pdf)
+
+2016 September - -
+
+>It looks as though the new version 3.4 release of MongoDB has a number of cool business 
+>intelligence related features. What can you tell me ?
+>
+>[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_09_34Features.pdf)
+[Resource Kit](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_09_34Features_ResourceKit.tar), all of the programs used in this document in Tar format.
