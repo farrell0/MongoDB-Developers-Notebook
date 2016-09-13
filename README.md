@@ -10,16 +10,16 @@ This is a personal blog where we answer one or more questions each month from Mo
 >It looks as though the new version 3.4 release of MongoDB has a number of cool business 
 >intelligence related features. What can you tell me ?
 >
->[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_09_34Features.pdf)
+>[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_09_34Features.pdf)
 >
->[Resource Kit](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_09_34Features_ResourceKit.tar), all of the programs used in this edition of this document in Tar format.
+>[Resource Kit](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_09_34Features_ResourceKit.tar), all of the programs used in this edition of this document in Tar format.
 
 2016 August - -
 
 >I recently took the MongoDB DBA certification exam, and was caught unprepared by questions 
 >related to mongofiles, mongoperf, and more. What have I been missing by not using these utilities ?
 >
->[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_08_Tools.pdf)
+>[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_08_Tools.pdf)
 
 2016 July - -
 
@@ -29,7 +29,7 @@ This is a personal blog where we answer one or more questions each month from Mo
 >line postings that imply integration between ElasticSearch and MongoDB. What can you 
 >tell me ?
 >
->[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_07_ElasticSearch.pdf)
+>[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_07_ElasticSearch.pdf)
 
 2016 June - -
 
@@ -38,9 +38,9 @@ This is a personal blog where we answer one or more questions each month from Mo
 >and have been doing that for years. Can you detail for me when to use MongoDB find ( ), 
 >versus aggregate ( ); pretty much give me a primer on the whole subject area ?
 >
->[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_06_QueryPrimer.pdf)
+>[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_06_QueryPrimer.pdf)
 >
->[Related Powerpoint](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_06_QueryPrimer.pptx.pdf), from SLC Mug
+>[Related Powerpoint](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_06_QueryPrimer.pptx.pdf), from SLC Mug
 
 2016 May - -
 
@@ -48,9 +48,9 @@ This is a personal blog where we answer one or more questions each month from Mo
 >The business users are complaining about slow report completion times. What can 
 >I do to improve performance ?
 >
->[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_05_IndexTuning.pdf)
+>[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_05_IndexTuning.pdf)
 >
-[Related Powerpoint](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_05_IndexTuning.pptx.pdf), from SLC and Denver MUG
+[Related Powerpoint](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_05_IndexTuning.pptx.pdf), from SLC and Denver MUG
 >
 >[Posted here](https://www.mongodb.com/presentations/webinar-index-tuning-and-evaluation-using-mongodb?p=5721041a1b55a234bf9566de), this is also a Webinar.
 
@@ -61,9 +61,9 @@ This is a personal blog where we answer one or more questions each month from Mo
 >requirements roll in. Still, I come from SQL and really miss SQL style
 >check constraints. What can I do ?
 >
->[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_04_CheckConstraints.pdf)
+>[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_04_CheckConstraints.pdf)
 >
->[Related PowerPoint](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_04_CheckConstraints.pptx), from SLC MUG
+>[Related PowerPoint](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_04_CheckConstraints.pptx), from SLC MUG
 
 2016 March - -
 
@@ -72,5 +72,5 @@ This is a personal blog where we answer one or more questions each month from Mo
 >structured query language select (SQL SELECT) statements against
 >MongoDB ?
 >
->[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/download/MDB_DN_2016_03_Eclipse_BiConnector.pdf)
+>[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_03_Eclipse_BiConnector.pdf)
 
