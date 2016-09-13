@@ -1,5 +1,4 @@
 MongoDB Developer's Notebook
-Quick Links
 -----------
 
 | **[Screenshots](#screenshots)**| **[API](#api)** | **[Fonts ➶][patched-fonts]** | **[Patcher ➶][Nerd Fonts]** |
