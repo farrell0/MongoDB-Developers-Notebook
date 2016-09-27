@@ -7,7 +7,7 @@ This is a personal blog where we answer one or more questions each month from Mo
 
 Content from University.MongoDB.com - -
 
->This blog often uses the sample data set from the University.MongoDb.com courses.
+>This blog often uses the sample data set from the University.MongoDB.com courses.
 >
 >[Zips.json is available here](https://raw.githubusercontent.com/farrell0/MongoDB-Developers-Notebook/master/data_download/zips.json)
 >
