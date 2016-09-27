@@ -10,5 +10,7 @@ Content from University.MongoDB.com - -
 >This blog often uses the sample data set from the University.MongoDb.com courses.
 >
 >[Zips.json is available here](https://raw.githubusercontent.com/farrell0/MongoDB-Developers-Notebook/master/data_download/zips.json)
+>
 >[Companies.json.zip is available here](https://raw.githubusercontent.com/farrell0/MongoDB-Developers-Notebook/master/data_download/companies.json.zip)
+>
 >[Twitter.json.zip is available here](https://raw.githubusercontent.com/farrell0/MongoDB-Developers-Notebook/master/data_download/twitter.json.zip)
