@@ -15,7 +15,7 @@ Content from University.MongoDB.com - -
 >
 >[Twitter.json.zip is available here](https://raw.githubusercontent.com/farrell0/MongoDB-Developers-Notebook/master/data_download/twitter.json.zip)
 
-USA Airline schedule and equipment data, and USA Weather related data - -
+USA Airline Schedule and Equipment data, and USA Historical Weather related data - -
 
 >I'm still munging this data (fixing date formats so they join, yadda), but here
 >are some of my favoriate Urls for pulling data on this topic-
@@ -24,4 +24,4 @@ USA Airline schedule and equipment data, and USA Weather related data - -
 >
 >[USA Airline Equipment data](http://registry.faa.gov/aircraftinquiry/NNum_Inquiry.aspx
 )
-[USA Weather data](https://www.wunderground.com/history/airport)
+[USA Historical Weather data](https://www.wunderground.com/history/airport)
