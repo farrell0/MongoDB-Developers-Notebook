@@ -9,11 +9,11 @@ Content from [University.MongoDB.com](http://university.mongodb.com) - -
 
 >This blog often uses the sample data set from the University.MongoDB.com courses.
 >
->[Zips.json is available here](https://raw.githubusercontent.com/farrell0/MongoDB-Developers-Notebook/master/data_download/zips.json)
+>[Zips.json](https://raw.githubusercontent.com/farrell0/MongoDB-Developers-Notebook/master/data_download/zips.json)
 >
->[Companies.json.zip is available here](https://raw.githubusercontent.com/farrell0/MongoDB-Developers-Notebook/master/data_download/companies.json.zip)
+>[Companies.json.zip](https://raw.githubusercontent.com/farrell0/MongoDB-Developers-Notebook/master/data_download/companies.json.zip)
 >
->[Twitter.json.zip is available here](https://raw.githubusercontent.com/farrell0/MongoDB-Developers-Notebook/master/data_download/twitter.json.zip)
+>[Twitter.json.zip](https://raw.githubusercontent.com/farrell0/MongoDB-Developers-Notebook/master/data_download/twitter.json.zip)
 
 USA Airline Schedule and Equipment data, and USA Historical Weather related data - -
 
