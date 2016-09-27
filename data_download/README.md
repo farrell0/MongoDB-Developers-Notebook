@@ -5,4 +5,10 @@ MongoDB Developer's Notebook - Data Downloads
 |--------------------------------|-----------------|
 This is a personal blog where we answer one or more questions each month from MongoDB customers in a non-official, non-warranted, non much of anything forum.
 
->Content coming soon !
+Content from University.MongoDB.com - -
+
+>This blog often uses the sample data set from the University.MongoDb.com courses.
+>
+>[Zips.json is available here](https://raw.githubusercontent.com/farrell0/MongoDB-Developers-Notebook/master/data_download/zips.json)
+>[Companies.json.zip is available here](https://raw.githubusercontent.com/farrell0/MongoDB-Developers-Notebook/master/data_download/companies.json.zip)
+>[Twitter.json.zip is available here](https://raw.githubusercontent.com/farrell0/MongoDB-Developers-Notebook/master/data_download/twitter.json.zip)
