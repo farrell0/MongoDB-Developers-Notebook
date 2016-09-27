@@ -5,7 +5,7 @@ MongoDB Developer's Notebook - Data Downloads
 |--------------------------------|-----------------|
 This is a personal blog where we answer one or more questions each month from MongoDB customers in a non-official, non-warranted, non much of anything forum.
 
-Content from University.MongoDB.com - -
+Content from [University.MongoDB.com](http://university.mongodb.com) - -
 
 >This blog often uses the sample data set from the University.MongoDB.com courses.
 >
