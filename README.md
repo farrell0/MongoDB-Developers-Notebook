@@ -5,6 +5,16 @@ MongoDB Developer's Notebook - Monthly Articles
 |--------------------------------|-----------------|
 This is a personal blog where we answer one or more questions each month from MongoDB customers in a non-official, non-warranted, non much of anything forum.
 
+2016 November - -
+
+>After our initial (and hugely successful) project writing a mobile application that 
+>uses MongoDB, I have been tasked with determining our run time environment for the 
+>MongoDB database server. I am a little confused with the differences between MongoDB 
+>Operations Manager, MongoDB Cloud Manager, and such. We will be running this system 
+>on our multi-national private cloud. What can you tell me ?
+>
+>[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_11_OpsMgr.pdf)
+
 2016 October - -
 
 >I am new to MongoDB, and am wondering what tools you offer for developers. Specfically, 
