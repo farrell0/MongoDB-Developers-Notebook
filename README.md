@@ -9,6 +9,6 @@ This is a personal blog where we answer one or more questions each month from Mo
 
 >Getting ready for 2017 !
 >
->Until that time, please chec out 2016 ?
+>Until that time, please check out 2016 ?
 
 
