@@ -5,6 +5,22 @@ MongoDB Developer's Notebook - Monthly Articles 2016
 |-------------------------|--------------------------|-----------------|
 This is a personal blog where we answer one or more questions each month from MongoDB customers in a non-official, non-warranted, non much of anything forum.
 
+2016 December - -
+
+>Through acquisition of several competitors, my company has numerous redundant order 
+>entry, processing and fulfillment systems. When a customer contacts us via phone or 
+>via the Website, any order the customer may have placed could reside in any of these 
+>systems, causing confusion, delay and error. We are looking at a master-data-management 
+>solution, with a 24 month design and delivery cycle that we find prohibitive. mongoDB 
+>lists this type of problem as single-view, and as one of the problems that your 
+>database server and its ecosystem help address. What can you tell me ?
+>
+>In this article we deliver CDC from MySQL and Redis into mongoDB with a Web UI.
+>
+>[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_12_SingleView.pdf)
+>
+>[Resource Kit](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_12_SingleView.tar], all of the programs used in this edition in Tar format.
+
 2016 November - -
 
 >After our initial (and hugely successful) project writing a mobile application that 
