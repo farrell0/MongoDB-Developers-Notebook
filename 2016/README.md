@@ -19,7 +19,7 @@ This is a personal blog where we answer one or more questions each month from Mo
 >
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_12_SingleView.pdf)
 >
->[Resource Kit](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_12_SingleView.tar], all of the programs used in this edition in Tar format.
+>[Resource Kit](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_12_SingleView.tar), all of the programs used in this edition in Tar format.
 
 2016 November - -
 
