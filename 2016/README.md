@@ -29,6 +29,9 @@ This is a personal blog where we answer one or more questions each month from Mo
 >Operations Manager, MongoDB Cloud Manager, and such. We will be running this system 
 >on our multi-national private cloud. What can you tell me ?
 >
+>In this article we overview monoDB Ops Mgr, Cloud Mgr, and Atlas. We also install, 
+>configure and use mongoDB Ops Mgr version (3.2) from scratch.
+>
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_11_OpsMgr.pdf)
 
 2016 October - -
@@ -37,6 +40,8 @@ This is a personal blog where we answer one or more questions each month from Mo
 >I am used to using a graphical tool for query plans, SQL style DML execution, data 
 >dictionary exploration (How do you deal with a jagged row table store ?), etcetera. 
 >What can you tell me ?
+>
+>In this article we install, configure and use mongoDB Compass.
 >
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_10_Compass.pdf)
 
@@ -96,6 +101,9 @@ This is a personal blog where we answer one or more questions each month from Mo
 >requirements roll in. Still, I come from SQL and really miss SQL style
 >check constraints. What can I do ?
 >
+>In this article we detail the construction and use of mongoDB document 
+>validation.
+>
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_04_CheckConstraints.pdf)
 >
 >[Related PowerPoint](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_04_CheckConstraints.pptx), from SLC MUG
@@ -106,6 +114,9 @@ This is a personal blog where we answer one or more questions each month from Mo
 >(IDE). How do I interface with MongoDB when using Eclipse ? Can I run
 >structured query language select (SQL SELECT) statements against
 >MongoDB ?
+>
+>In this article we install, configure and use mongoDB Business Intelligence
+>Connector version 1.x.
 >
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_03_Eclipse_BiConnector.pdf)
 
