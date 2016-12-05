@@ -29,7 +29,7 @@ This is a personal blog where we answer one or more questions each month from Mo
 >Operations Manager, MongoDB Cloud Manager, and such. We will be running this system 
 >on our multi-national private cloud. What can you tell me ?
 >
->In this article we overview monoDB Ops Mgr, Cloud Mgr, and Atlas. We also install, 
+>In this article we overview mongoDB Ops Mgr, Cloud Mgr, and Atlas. We also install, 
 >configure and use mongoDB Ops Mgr version (3.2) from scratch.
 >
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_11_OpsMgr.pdf)
