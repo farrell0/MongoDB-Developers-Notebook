@@ -7,6 +7,7 @@ This is a personal blog where we answer one or more questions each month from Mo
 
 2016 December - -
 
+>Customer:
 >Through acquisition of several competitors, my company has numerous redundant order 
 >entry, processing and fulfillment systems. When a customer contacts us via phone or 
 >via the Website, any order the customer may have placed could reside in any of these 
@@ -15,6 +16,7 @@ This is a personal blog where we answer one or more questions each month from Mo
 >lists this type of problem as single-view, and as one of the problems that your 
 >database server and its ecosystem help address. What can you tell me ?
 >
+>Daniel:
 >In this article we deliver CDC from MySQL and Redis into mongoDB with a Web UI.
 >
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_12_SingleView.pdf)
@@ -25,12 +27,14 @@ This is a personal blog where we answer one or more questions each month from Mo
 
 2016 November - -
 
+>Customer:
 >After our initial (and hugely successful) project writing a mobile application that 
 >uses MongoDB, I have been tasked with determining our run time environment for the 
 >MongoDB database server. I am a little confused with the differences between MongoDB 
 >Operations Manager, MongoDB Cloud Manager, and such. We will be running this system 
 >on our multi-national private cloud. What can you tell me ?
 >
+>Daniel:
 >In this article we overview mongoDB Ops Mgr, Cloud Mgr, and Atlas. We also install, 
 >configure and use mongoDB Ops Mgr version (3.2) from scratch.
 >
@@ -38,19 +42,26 @@ This is a personal blog where we answer one or more questions each month from Mo
 
 2016 October - -
 
+>Customer:
 >I am new to MongoDB, and am wondering what tools you offer for developers. Specfically, 
 >I am used to using a graphical tool for query plans, SQL style DML execution, data 
 >dictionary exploration (How do you deal with a jagged row table store ?), etcetera. 
 >What can you tell me ?
 >
+>Daniel:
 >In this article we install, configure and use mongoDB Compass.
 >
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_10_Compass.pdf)
 
 2016 September - -
 
+>Customer:
 >It looks as though the new version 3.4 release of MongoDB has a number of cool business 
 >intelligence related features. What can you tell me ?
+>
+>Daniel:
+>In this document we create 30+ demonstration programs that use the new features of mongoDB
+>release 3.4 database server.
 >
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_09_34Features.pdf)
 >
@@ -58,27 +69,43 @@ This is a personal blog where we answer one or more questions each month from Mo
 
 2016 August - -
 
+>Customer:
 >I recently took the MongoDB DBA certification exam, and was caught unprepared by questions 
 >related to mongofiles, mongoperf, and more. What have I been missing by not using these utilities ?
+>
+>Daniel:
+>In this document we detail all/most of the mongoDB command line utilities for backup,
+>data migration, and more.
 >
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_08_Tools.pdf)
 
 2016 July - -
 
+>Customer:
 >I’ve been asked to support a project that wants to deliver a fuzzy search capability 
 >for customer entitlement. E.g., you contact our customer call center and we find your 
 >record whether your name is David, Dave, Davey, you get the idea. I’ve read some on 
 >line postings that imply integration between ElasticSearch and MongoDB. What can you 
 >tell me ?
 >
+>Daniel:
+>In this document we detail the mongoDB Connector with connectivity to ElasticSearch
+>and other mongoDB database servers.
+>
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_07_ElasticSearch.pdf)
 
 2016 June - -
 
+>Customer:
 >My team and I have been tasked with learning MongoDB, writing queries and getting 
 >a new project out of the door in 3 weeks. I know how to write most queries in SQL, 
 >and have been doing that for years. Can you detail for me when to use MongoDB find ( ), 
 >versus aggregate ( ); pretty much give me a primer on the whole subject area ?
+>
+>Daniel:
+>In this document we take the TPC.org TPC/C, TPC/D, and TPC/H industry standard benchmarks
+>and write all of these queries in mongoDB. At the end of this document, we feel confident 
+>stating your can write 98% or more of the queries you will ever need to write.
 >
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_06_QueryPrimer.pdf)
 >
@@ -86,9 +113,14 @@ This is a personal blog where we answer one or more questions each month from Mo
 
 2016 May - -
 
+>Customer:
 >I inherited a MongoDB database server with 60 collections and 100 or so indexes.
 >The business users are complaining about slow report completion times. What can 
 >I do to improve performance ?
+>
+>Daniel:
+>In this document we do a full primer on query optimizers, index negation, and
+>more for mongoDB and other relational database servers.
 >
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_05_IndexTuning.pdf)
 >
@@ -98,11 +130,13 @@ This is a personal blog where we answer one or more questions each month from Mo
 
 2016 April - -
 
+>Customer:
 >I get that MongoDB offers a polymorphic schema, and that part of the
 >appeal of MongoDB is the no schema migration capability as new application
 >requirements roll in. Still, I come from SQL and really miss SQL style
 >check constraints. What can I do ?
 >
+>Daniel:
 >In this article we detail the construction and use of mongoDB document 
 >validation.
 >
@@ -112,11 +146,13 @@ This is a personal blog where we answer one or more questions each month from Mo
 
 2016 March - -
 
+>Customer:
 >I prefer using Eclipse as my interactive development environment
 >(IDE). How do I interface with MongoDB when using Eclipse ? Can I run
 >structured query language select (SQL SELECT) statements against
 >MongoDB ?
 >
+>Daniel:
 >In this article we install, configure and use mongoDB Business Intelligence
 >Connector version 1.x.
 >
