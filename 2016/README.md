@@ -121,5 +121,3 @@ This is a personal blog where we answer one or more questions each month from Mo
 >Connector version 1.x.
 >
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_03_Eclipse_BiConnector.pdf)
-
-
