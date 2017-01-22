@@ -25,8 +25,8 @@ This is a personal blog where we answer one or more questions each month from Mo
 >
 >This became part-two of a two part document. Part-one appears under December/2016.
 
->If you are attending a Meetup group workshop on mongoDB Single View-
->
+If you are attending a Meetup group workshop on mongoDB Single View - -
+
 >We are distributing a virtual machine. On Windows you will need the free VMWare Player, 
 >available [Download here](http://www.vmware.com/products/player/playerpro-evaluation.html) 
 >The VMWare Player is not time-bombed, runs forever, yadda. There is no free VMWare Player
