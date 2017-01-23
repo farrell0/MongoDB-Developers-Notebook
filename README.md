@@ -32,8 +32,9 @@ If you are attending a Meetup group workshop on mongoDB Single View - -
 >(http://www.vmware.com/products/player/playerpro-evaluation.html). VMWare's Player product
 >is not time-bombed, runs forever, yadda. There is no free VMWare Player for MAC; only a 
 >for-charge product titled, VMWare Fusion. We've never tested it, however; Oracle VirtualBox 
->is supposed to be able to run this virtual machine. See this document for instructions, 
->[Click here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/OracleVirtualBoxToRunAVMDK.pdf). 
+>is supposed to be able to run this virtual machine. See this document for instructions on
+>the topic running VMDKs from VirtualBox, [Click here]
+>(https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/OracleVirtualBoxToRunAVMDK.pdf). 
 >Or, click this link for the source article, [Click here]
 >(http://techathlon.com/how-to-run-a-vmdk-file-in-oracle-virtualbox/).
 >
