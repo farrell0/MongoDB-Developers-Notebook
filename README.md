@@ -19,7 +19,7 @@ This is a personal blog where we answer one or more questions each month from Mo
 >July/2016 edition of this document detailed the mongoDB Connector, which does this work 
 >and more, but we wanted to demonstrate writing this code from scratch.
 >
->[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2017_13_SingleView.pdf)
+>[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2017_13_SingleView.pdf).
 >
 >[Resource Kit](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2017_13_SingleView.tar), all of the programs used in this edition in Tar format.
 >
@@ -40,4 +40,21 @@ If you are attending a Meetup group workshop on mongoDB Single View - -
 >
 >Download the mongoDB Single View virtual machine here [Click here (6 MB)]
 >(https://drive.google.com/open?id=0B37pFF1dJ894aHBIZlVYa2kxejA).
+
+2017 February - -
+
+>Customer:
+>While we claim we sprint and scrum, my company wants to move from a traditional deployment 
+>monolithic application architecture to a microservices architecture. We’ve looked at Docker 
+>and others, and currently plan to go all in on Cloud Foundry. What can you tell me ?
+>
+>Daniel:
+>In this article we overview the following topics: model-view-controller, stateful/stateless 
+>applications, IaaS, PaaS, containers, application packaging (Gradle, Maven), Cloud Foundry, 
+>services, user defined services, Cloud Foundry marketplace, and micro-services.
+>
+>Then we install pcfdev, a laptop capable Cloud Foundry runtime, and deploy and scale a Python 
+>Web application.
+>
+>[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2017_14b_CloudFoundry.pdf).
 
