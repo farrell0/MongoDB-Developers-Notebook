@@ -49,7 +49,7 @@ If you are attending a Meetup group workshop on mongoDB Single View - -
 >and others, and currently plan to go all in on Cloud Foundry. What can you tell me ?
 >
 >Daniel:
->In this article we overview the following topics: model-view-controller, stateful/stateless 
+>In this article we overview the following topics; model-view-controller, stateful/stateless 
 >applications, IaaS, PaaS, containers, application packaging (Gradle, Maven), Cloud Foundry, 
 >services, user defined services, Cloud Foundry marketplace, and micro-services. We also
 >detail all of the mongoDB themed Cloud Foundry marketplace tiles. 
