@@ -51,7 +51,8 @@ If you are attending a Meetup group workshop on mongoDB Single View - -
 >Daniel:
 >In this article we overview the following topics: model-view-controller, stateful/stateless 
 >applications, IaaS, PaaS, containers, application packaging (Gradle, Maven), Cloud Foundry, 
->services, user defined services, Cloud Foundry marketplace, and micro-services.
+>services, user defined services, Cloud Foundry marketplace, and micro-services. We also
+>detail all of the mongoDB themed Cloud Foundry marketplace tiles. 
 >
 >Then we install pcfdev, a laptop capable Cloud Foundry runtime, and deploy and scale a Python 
 >Web application.
