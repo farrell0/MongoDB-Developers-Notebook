@@ -59,3 +59,25 @@ If you are attending a Meetup group workshop on mongoDB Single View - -
 >
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2017_14b_CloudFoundry.pdf).
 
+2017 March - -
+
+>Customer: 
+>My company is committing to mongoDB in a large way. Over the years and with 
+>prior technologies, we have built our own single pane of glass to monitor all of our 
+>server systems; reporting server events, significant performance statistics, items to 
+>watch for tuning, faults, and more. What does mongoDB offer in this area ?
+>
+>Daniel:
+>We can’t promise we will cover every topic in this area as the basic question you ask 
+>is essentially; tell me everything I need to know. We will, however, list many of our 
+>favorites in the area of monitoring, statistics, tuning, and more. We detail; the mongoDB 
+>Ops Mgr API, db.serverStatus(), audit logging, the message log file, the OpLog, query
+>plans, index usage, and more.
+>
+>Where it makes sense we offer sample code. And in each case, we list the documentation 
+>Url for further research as your specific needs and intents make suggest.
+>
+>[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2017_15_Monitoringb.pdf).
+
+
+
