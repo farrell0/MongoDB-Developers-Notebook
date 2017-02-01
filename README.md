@@ -15,7 +15,7 @@ This is a personal blog where we answer one or more questions each month from Mo
 >
 >Daniel:
 >In this article we continue our work from the December/2016 document, and add Kafka as a
->data source and target. And we read from the mongoDB oplog to do that push into Kafka. The
+>data source and target. And we read from the mongoDB OpLog to do that push into Kafka. The
 >July/2016 edition of this document detailed the mongoDB Connector, which does this work 
 >and more, but we wanted to demonstrate writing this code from scratch.
 >
@@ -38,8 +38,9 @@ If you are attending a Meetup group workshop on mongoDB Single View - -
 >Or, click this link for the source article, [Click here]
 >(http://techathlon.com/how-to-run-a-vmdk-file-in-oracle-virtualbox/).
 >
->Download the mongoDB Single View virtual machine here [Click here (6 MB)]
->(https://drive.google.com/open?id=0B37pFF1dJ894aHBIZlVYa2kxejA).
+>Download the mongoDB Single View virtual machine here [Click here (6 GB)]
+>(https://drive.google.com/open?id=0B37pFF1dJ894aHBIZlVYa2kxejA). This image was zipped up 
+>on Mac, and at least 2 Windows users reported they can not unzip it, fyi.
 
 2017 February - -
 
