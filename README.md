@@ -76,7 +76,7 @@ If you are attending a Meetup group workshop on mongoDB Single View - -
 >plans, index usage, and more.
 >
 >Where it makes sense we offer sample code. And in each case, we list the documentation 
->Url for further research as your specific needs and intents make suggest.
+>Url for further research as your specific needs and intents may suggest.
 >
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2017_15_Monitoringb.pdf).
 
