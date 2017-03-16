@@ -29,15 +29,15 @@ This is a personal blog where we answer one or more questions each month from Mo
 If you are attending a Meetup group workshop on mongoDB Single View - -
 
 >We are distributing a virtual machine; (Username/password, root password ). On Windows or 
->Linux you will need the free VMWare Player, available [Download here]
->(http://www.vmware.com/products/player/playerpro-evaluation.html). VMWare's Player product
+>Linux you will need the free VMWare Player, available 
+>[Download here](http://www.vmware.com/products/player/playerpro-evaluation.html). VMWare's Player product
 >is not time-bombed, runs forever, yadda. There is no free VMWare Player for MAC, only a 
 >for-charge product titled, VMWare Fusion. We've never tested it, however; Oracle VirtualBox 
 >is supposed to be able to run this virtual machine. See this document for instructions on
->the topic running VMDKs from VirtualBox, [Click here]
->(https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/OracleVirtualBoxToRunAVMDK.pdf). 
->Or, click this link for the source article, [Click here]
->(http://techathlon.com/how-to-run-a-vmdk-file-in-oracle-virtualbox/).
+>the topic running VMDKs from VirtualBox, 
+>[Click here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/OracleVirtualBoxToRunAVMDK.pdf). 
+>Or, click this link for the source article, 
+>[Click here](http://techathlon.com/how-to-run-a-vmdk-file-in-oracle-virtualbox/).
 >
 >Download the mongoDB Single View virtual machine here [Click here (6 GB)]
 >(https://drive.google.com/file/d/0B37pFF1dJ894aEtRdEpCTnVKWTg). This image was zipped up 
