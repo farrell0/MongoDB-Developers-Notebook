@@ -3,6 +3,7 @@ MongoDB Developer's Notebook - Monthly Articles 2016
 
 | **[Monthly Articles - 2017](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/README.md)**| **[Monthly Articles - 2016](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/2016/README.md)**| **[Data Downloads](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/data_download/README.md)** |
 |-------------------------|--------------------------|-----------------|
+
 This is a personal blog where we answer one or more questions each month from MongoDB customers in a non-official, non-warranted, non much of anything forum.
 
 2016 December - -
@@ -124,7 +125,7 @@ This is a personal blog where we answer one or more questions each month from Mo
 >
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_05_IndexTuning.pdf)
 >
-[Related Powerpoint](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_05_IndexTuning.pptx.pdf), from SLC and Denver MUG
+>[Related Powerpoint](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2016_05_IndexTuning.pptx.pdf), from SLC and Denver MUG
 >
 >[Posted here](https://www.mongodb.com/presentations/webinar-index-tuning-and-evaluation-using-mongodb?p=5721041a1b55a234bf9566de), this is also a Webinar.
 
