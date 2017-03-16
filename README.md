@@ -39,9 +39,9 @@ If you are attending a Meetup group workshop on mongoDB Single View - -
 >Or, click this link for the source article, 
 >[Click here](http://techathlon.com/how-to-run-a-vmdk-file-in-oracle-virtualbox/).
 >
->Download the mongoDB Single View virtual machine here [Click here (6 GB)]
->(https://drive.google.com/file/d/0B37pFF1dJ894aEtRdEpCTnVKWTg). This image was zipped up 
->on Windows using 7-Zip.
+>Download the mongoDB Single View virtual machine here 
+>[Click here (6 GB)](https://drive.google.com/file/d/0B37pFF1dJ894aEtRdEpCTnVKWTg). 
+>This image was zipped up on Windows using 7-Zip.
 
 2017 February - -
 
