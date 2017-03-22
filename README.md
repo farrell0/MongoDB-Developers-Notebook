@@ -6,6 +6,44 @@ MongoDB Developer's Notebook - Monthly Articles 2017
 
 This is a personal blog where we answer one or more questions each month from MongoDB customers in a non-official, non-warranted, non much of anything forum.
 
+2017 March - -
+
+>Customer: 
+>My company is committing to mongoDB in a large way. Over the years and with 
+>prior technologies, we have built our own single pane of glass to monitor all of our 
+>server systems; reporting server events, significant performance statistics, items to 
+>watch for tuning, faults, and more. What does mongoDB offer in this area ?
+>
+>Daniel:
+>We can’t promise we will cover every topic in this area as the basic question you ask 
+>is essentially; tell me everything I need to know. We will, however, list many of our 
+>favorites in the area of monitoring, statistics, tuning, and more. We detail; the mongoDB 
+>Ops Mgr API, db.serverStatus(), audit logging, the message log file, the OpLog, query
+>plans, index usage, and more.
+>
+>Where it makes sense we offer sample code. And in each case, we list the documentation 
+>Url for further research as your specific needs and intents may suggest.
+>
+>[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2017_15_Monitoringb.pdf).
+
+2017 February - -
+
+>Customer:
+>While we claim we sprint and scrum, my company wants to move from a traditional deployment 
+>monolithic application architecture to a microservices architecture. We’ve looked at Docker 
+>and others, and currently plan to go all in on Cloud Foundry. What can you tell me ?
+>
+>Daniel:
+>In this article we overview the following topics; model-view-controller, stateful/stateless 
+>applications, IaaS, PaaS, containers, application packaging (Gradle, Maven), Cloud Foundry, 
+>services, user defined services, Cloud Foundry marketplace, and micro-services. We also
+>detail all of the mongoDB themed Cloud Foundry marketplace tiles. 
+>
+>Then we install pcfdev, a laptop capable Cloud Foundry runtime, and deploy and scale a Python 
+>Web application.
+>
+>[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2017_14b_CloudFoundry.pdf).
+
 2017 January - -
 
 >Customer:
@@ -42,44 +80,4 @@ If you are attending a Meetup group workshop on mongoDB Single View - -
 >Download the mongoDB Single View virtual machine here 
 >[Click here (6 GB)](https://drive.google.com/file/d/0B37pFF1dJ894aEtRdEpCTnVKWTg). 
 >This image was zipped up on Windows using 7-Zip.
-
-2017 February - -
-
->Customer:
->While we claim we sprint and scrum, my company wants to move from a traditional deployment 
->monolithic application architecture to a microservices architecture. We’ve looked at Docker 
->and others, and currently plan to go all in on Cloud Foundry. What can you tell me ?
->
->Daniel:
->In this article we overview the following topics; model-view-controller, stateful/stateless 
->applications, IaaS, PaaS, containers, application packaging (Gradle, Maven), Cloud Foundry, 
->services, user defined services, Cloud Foundry marketplace, and micro-services. We also
->detail all of the mongoDB themed Cloud Foundry marketplace tiles. 
->
->Then we install pcfdev, a laptop capable Cloud Foundry runtime, and deploy and scale a Python 
->Web application.
->
->[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2017_14b_CloudFoundry.pdf).
-
-2017 March - -
-
->Customer: 
->My company is committing to mongoDB in a large way. Over the years and with 
->prior technologies, we have built our own single pane of glass to monitor all of our 
->server systems; reporting server events, significant performance statistics, items to 
->watch for tuning, faults, and more. What does mongoDB offer in this area ?
->
->Daniel:
->We can’t promise we will cover every topic in this area as the basic question you ask 
->is essentially; tell me everything I need to know. We will, however, list many of our 
->favorites in the area of monitoring, statistics, tuning, and more. We detail; the mongoDB 
->Ops Mgr API, db.serverStatus(), audit logging, the message log file, the OpLog, query
->plans, index usage, and more.
->
->Where it makes sense we offer sample code. And in each case, we list the documentation 
->Url for further research as your specific needs and intents may suggest.
->
->[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2017_15_Monitoringb.pdf).
-
-
 
