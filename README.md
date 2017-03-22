@@ -21,12 +21,13 @@ This is a personal blog where we answer one or more questions each month from Mo
 >Honestly we used this device because it was the first we found with source code to
 >read and graph the output in real time. (We didn't have a readily available door sensor.)
 >If you choose not to purchase this device, we also simulate and output a data stream 
->from a pre-recorded ECG/EKG.
+>from a pre-recorded ECG/EKG. (Net/net, this whole thing works whether you have a device
+>or not.)
 >
 >Analytics- We found a number of articles describing analytics that can be performed
->on an ECG/EKG, in effect can I identify you from your ECG/EKG, but none for a pulse 
->meter. So, we moved the analytics you described to a new data set that we provide and 
->detail.
+>on an ECG/EKG, in effect can I identify you from your ECG/EKG, but none of any consequence
+>for a pulse meter. So, we moved the analytics you requested to a new data set that we 
+>provide and detail.
 >
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2017_16_IOT.pdf).
 >
