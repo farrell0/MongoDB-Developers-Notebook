@@ -31,7 +31,7 @@ This is a personal blog where we answer one or more questions each month from Mo
 >
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2017_16_IOT.pdf).
 >
->[Resource Kit](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2017_16_IOT.tar)
+>[Resource Kit](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2017_16_IOT.tar),
 >all of the programs used in this edition in Tar format.
 
 2017 March - -
