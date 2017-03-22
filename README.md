@@ -6,6 +6,32 @@ MongoDB Developer's Notebook - Monthly Articles 2017
 
 This is a personal blog where we answer one or more questions each month from MongoDB customers in a non-official, non-warranted, non much of anything forum.
 
+2017 April - -
+
+>Customer:
+>My company has a corporate campus with over 120 buildings, and an even larger number 
+>of real time sensors; badge entry systems for doors, point of sale systems which we 
+>can read, and more. One of the analytics routines we need to run associates a given 
+>event with any other event at the same location and within a given amount of time. 
+>Can you show me how to tie real time events to analytics routines inside mongoDB ?
+>
+>Daniel:
+>In this document we deliver a Web form with real time streaming data from a finger 
+>pulse meter. We use Python to read from the device, deliver the Web form, yadda.
+>Honestly we used this device because it was the first we found with source code to
+>read and graph the output in real time. (We didn't have a readily available door sensor.)
+>If you choose not to purchase this device, we also simulate and output a data stream 
+>from a pre-recorded ECG/EKG.
+>
+>Analytics- We found a number of articles describing analytics that can be performed
+>on an ECG/EKG, in effect can I identify you from your ECG/EKG, but none for a pulse 
+>meter. So, we moved the analytics you described to a new data set that we provide and 
+>detail.
+>
+>[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2017_16_IOT.pdf).
+>
+>[Resource Kit](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2017_16_IOT.tar).
+
 2017 March - -
 
 >Customer: 
