@@ -20,8 +20,8 @@ This is a personal blog where we answer one or more questions each month from Mo
 >mongoDB’s capabilities in this area are even more performant.
 >
 >In this document we install, configure and use the version 2.1 BI Connector, and 
->install and use Eclipse, the Toad plugin for Eclipse, MySQL SQL Workbench, a MySQL 
->JDBC driver, Apache Drill, and more.
+>install and use Eclipse, the Toad plugin for Eclipse, MySQL Workbench, a MySQL JDBC
+>driver, Apache Drill, and more.
 >
 >In addition to running SQL, the October 2016 edition of this document details install, 
 >configuration and use of the graphical query user interface to mongoDB, named mongoDB 
