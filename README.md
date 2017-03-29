@@ -6,6 +6,29 @@ MongoDB Developer's Notebook - Monthly Articles 2017
 
 This is a personal blog where we answer one or more questions each month from MongoDB customers in a non-official, non-warranted, non much of anything forum.
 
+2017 May - -
+
+>Customer:
+>I’m coming from Oracle and MySQL, and can not possibly believe that you guys do not 
+>support running SQL- As a developer or even operations person I need to run SQL to 
+>understand my data, not to mention giving access to the data to my business intelligence 
+>users. What can you tell me ?
+>
+>Daniel:
+>Excellent question ! mongoDB has supported running SQL for some time, and with the 
+>recent 2.1 release of our mongoDB Connector for Business Intelligence (BI Connector), 
+>mongoDB’s capabilities in this area are even more performant.
+>
+>In this document we install, configure and use the version 2.1 BI Connector, and 
+>install and use Eclipse, the Toad plugin for Eclipse, MySQL SQL Workbench, a MySQL 
+>JDBC driver, Apache Drill, and more.
+>
+>In addition to running SQL, the October 2016 edition of this document details install, 
+>configuration and use of the graphical query user interface to mongoDB, named mongoDB 
+>Compass.
+>
+>[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2017_17_BiConnector2.pdf).
+
 2017 April - -
 
 >Customer:
