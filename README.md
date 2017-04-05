@@ -6,6 +6,40 @@ MongoDB Developer's Notebook - Monthly Articles 2017
 
 This is a personal blog where we answer one or more questions each month from MongoDB customers in a non-official, non-warranted, non much of anything forum.
 
+2017 June - -
+
+>Customer:
+>I need a hackathon for my mongoDB Meetup.com group, a skill set everyone can use like 
+>queries. Can you help ?
+>
+>Daniel:
+>The June/2016 edition of this document offers a primer on writing mongoDB queries; take 
+>the SQL TPC-C, TPC-D, and TPC-H benchmark queries and replicate these in mongoDB. And 
+>the May/2016 edition of this document details query tuning, and related. We write queries 
+>regularly in this series of documents, but have never had a hackathon proper. The 
+>September/2016 edition of this document detailed (new) version 3.4 features to mongoDB, 
+>including 15+ new aggregate query stages.
+>
+>In this edition of MDB-DN we give you two data sets, US Postal codes and US airline 
+>performance data, and ask you to answer these questions:
+>
+>• Which US city name is most common across states/provinces ?
+>
+>• Which US state has the highest number of unique city names ?
+>
+>• And, my airline is advertising they have improved on time performance. Are they being entirely truthful?
+>
+>We’ll do a bit of a primer, but as a hackathon; you need to discover the answers on your 
+>own. (We’re kidding; answers are provided if you’re willing to cheat.)
+>
+<[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2017_18_QueryHackathon.pdf).
+>
+[Resource kit](https://drive.google.com/open?id=0B37pFF1dJ894aURseGFjNE11MWM), all of 
+>the data programs used in this edition in Tar format. About 100 MB.
+>
+>[Related Powerpoint](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2017_18_QueryHackathon_slides.pdf).
+
+
 2017 May - -
 
 >Customer:
