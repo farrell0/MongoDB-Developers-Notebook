@@ -34,7 +34,7 @@ This is a personal blog where we answer one or more questions each month from Mo
 >
 >[Download here](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2017_18_QueryHackathon.pdf).
 >
-[Resource kit](https://drive.google.com/open?id=0B37pFF1dJ894aURseGFjNE11MWM), all of 
+>[Resource kit](https://drive.google.com/open?id=0B37pFF1dJ894aURseGFjNE11MWM), all of 
 >the data programs used in this edition in Tar format. About 100 MB.
 >
 >[Related Powerpoint](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/articles/MDB_DN_2017_18_QueryHackathon_slides.pdf).
