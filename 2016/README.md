@@ -1,16 +1,143 @@
-# 2016
+MongoDB Developer's Notebook - Monthly Articles 2016
+===================
 
-Monthly MongoDB Developer's Notebook articles converted from PDF into GitHub-readable Markdown.
+| **[Monthly Articles - 2017](../README.md)** | **[Monthly Articles - 2016](./README.md)** | **[Data Downloads](../downloads/README.md)** | **[Legacy Data Files](../data_download/README.md)** |
+|-------------------------|--------------------------|-----------------|-----------------|
 
-- [March 2016: Eclipse and MongoDB Connector for BI](./03-eclipse-biconnector/)
-- [April 2016: SQL Check Constraints with MongoDB](./04-check-constraints/)
-- [May 2016: Index Tuning](./05-index-tuning/)
-- [June 2016: Query Primer](./06-query-primer/)
-- [July 2016: ElasticSearch](./07-elasticsearch/)
-- [August 2016: Tools](./08-tools/)
-- [September 2016: MongoDB 3.4 Features](./09-mongodb-34-features/)
-- [October 2016: Compass](./10-compass/)
-- [November 2016: Ops Manager](./11-ops-manager/)
-- [December 2016: Single View](./12-single-view/)
+This is a personal blog where we answer one or more questions each month from MongoDB customers in a non-official, non-warranted, non much of anything forum.
+
+2016 March - -
+
+>Customer:
+>I prefer using Eclipse as my interactive development environment (IDE). How do I interface with MongoDB when using Eclipse? Can I run structured query language select (SQL SELECT) statements against MongoDB?
+>
+>Daniel:
+>In this article we install, configure and use MongoDB Business Intelligence Connector version 1.x.
+>
+>[Read article](./03-eclipse-biconnector/)
+>
+>[Original PDF](./03-eclipse-biconnector/MDB_DN_2016_03_Eclipse_BiConnector.pdf)
+
+2016 April - -
+
+>Customer:
+>I get that MongoDB offers a polymorphic schema, and that part of the appeal of MongoDB is the no schema migration capability as new application requirements roll in. Still, I come from SQL and really miss SQL style check constraints. What can I do?
+>
+>Daniel:
+>In this article we detail the construction and use of MongoDB document validation.
+>
+>[Read article](./04-check-constraints/)
+>
+>[Original PDF](./04-check-constraints/MDB_DN_2016_04_CheckConstraints.pdf)
+>
+>[Related PowerPoint](../downloads/presentation-files/MDB_DN_2016_04_CheckConstraints.pptx)
+
+2016 May - -
+
+>Customer:
+>I inherited a MongoDB database server with 60 collections and 100 or so indexes. The business users are complaining about slow report completion times. What can I do to improve performance?
+>
+>Daniel:
+>In this document we do a full primer on query optimizers, index negation, and more for MongoDB and other relational database servers.
+>
+>[Read article](./05-index-tuning/)
+>
+>[Original PDF](./05-index-tuning/MDB_DN_2016_05_IndexTuning.pdf)
+>
+>[Related PowerPoint](../downloads/slide-decks-and-supplemental-pdfs/MDB_DN_2016_05_IndexTuning.pptx.pdf)
+
+2016 June - -
+
+>Customer:
+>My team and I have been tasked with learning MongoDB, writing queries and getting a new project out of the door in 3 weeks. I know how to write most queries in SQL, and have been doing that for years. Can you detail for me when to use MongoDB find() versus aggregate(); pretty much give me a primer on the whole subject area?
+>
+>Daniel:
+>In this document we take the TPC.org TPC-C, TPC-D, and TPC-H industry standard benchmarks and write all of these queries in MongoDB. At the end of this document, we feel confident stating you can write 98% or more of the queries you will ever need to write.
+>
+>[Read article](./06-query-primer/)
+>
+>[Original PDF](./06-query-primer/MDB_DN_2016_06_QueryPrimer.pdf)
+>
+>[Related PowerPoint](../downloads/slide-decks-and-supplemental-pdfs/MDB_DN_2016_06_QueryPrimer.pptx.pdf)
+
+2016 July - -
+
+>Customer:
+>I’ve been asked to support a project that wants to deliver a fuzzy search capability for customer entitlement. E.g., you contact our customer call center and we find your record whether your name is David, Dave, Davey, you get the idea. I’ve read some online postings that imply integration between ElasticSearch and MongoDB. What can you tell me?
+>
+>Daniel:
+>In this document we detail the MongoDB Connector with connectivity to ElasticSearch and other MongoDB database servers.
+>
+>[Read article](./07-elasticsearch/)
+>
+>[Original PDF](./07-elasticsearch/MDB_DN_2016_07_ElasticSearch.pdf)
+
+2016 August - -
+
+>Customer:
+>I recently took the MongoDB DBA certification exam, and was caught unprepared by questions related to mongofiles, mongoperf, and more. What have I been missing by not using these utilities?
+>
+>Daniel:
+>In this document we detail most of the MongoDB command line utilities for backup, data migration, and more.
+>
+>[Read article](./08-tools/)
+>
+>[Original PDF](./08-tools/MDB_DN_2016_08_Tools.pdf)
+
+2016 September - -
+
+>Customer:
+>It looks as though the new version 3.4 release of MongoDB has a number of cool business intelligence related features. What can you tell me?
+>
+>Daniel:
+>In this document we create 30+ demonstration programs that use the new features of MongoDB release 3.4 database server.
+>
+>[Read article](./09-mongodb-34-features/)
+>
+>[Original PDF](./09-mongodb-34-features/MDB_DN_2016_09_34Features.pdf)
+>
+>[Resource Kit](../downloads/resource-kits-and-archives/MDB_DN_2016_09_34Features_ResourceKit.tar)
+>
+>[Presentation File](../downloads/presentation-files/MDB_DN_2016_09_34Features.pptx)
+
+2016 October - -
+
+>Customer:
+>I am new to MongoDB, and am wondering what tools you offer for developers. Specifically, I am used to using a graphical tool for query plans, SQL style DML execution, data dictionary exploration and similar tasks. What can you tell me?
+>
+>Daniel:
+>In this article we install, configure and use MongoDB Compass.
+>
+>[Read article](./10-compass/)
+>
+>[Original PDF](./10-compass/MDB_DN_2016_10_Compass.pdf)
+
+2016 November - -
+
+>Customer:
+>After our initial project writing a mobile application that uses MongoDB, I have been tasked with determining our run time environment for the MongoDB database server. I am a little confused with the differences between MongoDB Operations Manager, MongoDB Cloud Manager, and such. We will be running this system on our multi-national private cloud. What can you tell me?
+>
+>Daniel:
+>In this article we overview MongoDB Ops Manager, Cloud Manager, and Atlas. We also install, configure and use MongoDB Ops Manager version 3.2 from scratch.
+>
+>[Read article](./11-ops-manager/)
+>
+>[Original PDF](./11-ops-manager/MDB_DN_2016_11_OpsMgr.pdf)
+
+2016 December - -
+
+>Customer:
+>Through acquisition of several competitors, my company has numerous redundant order entry, processing and fulfillment systems. When a customer contacts us via phone or via the Website, any order the customer may have placed could reside in any of these systems, causing confusion, delay and error. We are looking at a master-data-management solution, with a 24 month design and delivery cycle that we find prohibitive. MongoDB lists this type of problem as single-view. What can you tell me?
+>
+>Daniel:
+>In this article we deliver CDC from MySQL and Redis into MongoDB with a Web UI.
+>
+>[Read article](./12-single-view/)
+>
+>[Original PDF](./12-single-view/MDB_DN_2016_12_SingleView.pdf)
+>
+>[Resource Kit](../downloads/resource-kits-and-archives/MDB_DN_2016_12_SingleView.tar)
+>
+>[Part Two](../2017/13-kafka-single-view)
 
 [Back to home](../README.md)
