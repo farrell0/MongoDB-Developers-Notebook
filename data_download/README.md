@@ -1,8 +1,8 @@
 MongoDB Developer's Notebook - Data Downloads
 ===================
 
-| **[Monthly Articles - 2017](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/README.md)**| **[Monthly Articles - 2016](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/2016/README.md)**| **[Data Downloads](https://github.com/farrell0/MongoDB-Developers-Notebook/blob/master/data_download/README.md)** |
-|-------------------------|--------------------------|-----------------|
+| **[Monthly Articles - 2017](../README.md)** | **[Monthly Articles - 2016](../2016/README.md)** | **[Data Downloads](../downloads/README.md)** | **[Legacy Data Files](./README.md)** |
+|-------------------------|--------------------------|-----------------|-----------------|
 
 This is a personal blog where we answer one or more questions each month from MongoDB customers in a non-official, non-warranted, non much of anything forum.
 
